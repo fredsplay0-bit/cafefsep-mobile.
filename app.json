@@ -1,7 +1,8 @@
+
 {
   "expo": {
-    "name": "caffer",
-    "slug": "snack-ccfe2192-dd0b-4e02-ab30-93e79362cb4c",
+    "name": "CAFÉFSEP",
+    "slug": "cafefsep-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +21,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "edgeToEdgeEnabled": true,
+      "package": "com.cafefsep.app"
     }
   }
 }
